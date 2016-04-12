@@ -26,6 +26,8 @@ form button {
   width: 9%;
   background: rgb(130, 224, 255);
   border: none; padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
 }
 
 #messages {
